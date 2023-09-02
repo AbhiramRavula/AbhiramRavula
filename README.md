@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhiramRavula
+- 👋 Hi, I’m @AbhiramRavula.
 - 🌱 I’m currently learning a Delta🔺course at apna college
 <!---
 - 💞️ I’m looking to collaborate on ...
