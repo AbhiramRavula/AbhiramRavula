@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AbhiramRavula.
-- 🌱 I’m currently learning a Delta🔺course at apna college
+- 🌱 I learned full-stack web dev Delta🔺at apna college
+- 🔥 I look forward to learning new things 
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
