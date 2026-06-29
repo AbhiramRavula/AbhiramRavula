@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <em>Final-year IT student · Ex-Intern @ Poditivity · Building AI-first products from Hyderabad 🇮🇳</em>
+  <em>IT graduate · Ex-Intern @ Poditivity · Building AI-first products from Hyderabad 🇮🇳</em>
 </p>
 
 </div>
@@ -54,7 +54,7 @@ I'm a developer who's genuinely excited about the AI wave — not just using too
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
+<!---
 
 ## 🚀 Projects I'm Proud Of
 
@@ -77,7 +77,7 @@ I'm a developer who's genuinely excited about the AI wave — not just using too
 
 `Unity` · `C#` · `Finite State Machines`
 
----
+--->
 
 ### 🔍 AI Misinformation Detector *(Hackathon)*
 > Built end-to-end during a hackathon — an AI-powered tool to detect and flag misinformation across web content.
