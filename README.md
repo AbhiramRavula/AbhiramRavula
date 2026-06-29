@@ -106,7 +106,7 @@ I'm a developer who's genuinely excited about the AI wave — not just using too
 <div align="center">
 
 <!-- Replace the LinkedIn URL with your actual profile link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravula-abhiram-880b29216)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramRavula)
 
 </div>
