@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <em>IT graduate · Ex-Intern @ Poditivity · Building AI-first products from Hyderabad 🇮🇳</em>
+  <em>IT graduate · Ex-Intern @ Poditivity . UNITY Engine game dev · Building AI-first products from Hyderabad 🇮🇳</em>
 </p>
 
 </div>
@@ -58,29 +58,22 @@ I'm a developer who's genuinely excited about the AI wave — not just using too
 
 ## 🚀 Projects I'm Proud Of
 
-### 🩺 DocScribe — Ambient AI Clinical Scribe
-> An AI scribe that sits in the room during doctor–patient consultations, listens in real-time, extracts structured prescription data via LLM, and delivers it via **WhatsApp** or **Bluetooth thermal printing** — zero doctor touch required.
 
-`Next.js` · `Supabase` · `Gemini 1.5 Flash` · `Web Speech API`
-
----
-
-### 📋 Apply Copilot — AI Job Application Tracker
-> Paste a job description → get structured data extraction + honest skill-gap analysis against your resume. **Claude Haiku** for fast extraction, **Claude Sonnet** for deep gap analysis, schema-validated with **Zod**.
-
-`Next.js` · `Vercel AI SDK` · `Claude API` · `Zod` · `Supabase`
-
----
 
 ### 🏎️ 3D Combat Racing Game
 > A Unity combat racer with **Finite State Machine-powered NPC AI** — enemies that chase, attack, and evade based on dynamic game state. The project that taught me intelligent systems are just as satisfying to build as UIs.
 
 `Unity` · `C#` · `Finite State Machines`
 
---->
+---
 
-### 🔍 AI Misinformation Detector *(Hackathon)*
-> Built end-to-end during a hackathon — an AI-powered tool to detect and flag misinformation across web content.
+### 📋 Automated web timetable scheduler
+> enter the details and get an option to generate optimal timetables and edit them if needed
+
+`REACT.js` · `Vercel` · `MERN` · `render` · `MONGODB`
+
+
+--->
 
 ---
 
