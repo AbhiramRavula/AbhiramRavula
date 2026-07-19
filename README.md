@@ -18,7 +18,7 @@ I'm a developer who's genuinely excited about the AI wave — not just using too
 
 - 🎓 **B.E. in Information Technology** — Matrusri Engineering College, Hyderabad (2026)
 - 💼 Completed a **1-year frontend internship** @ Poditivity — shipped real Next.js + TypeScript in production
-- 🤖 Actively building **AI-first portfolio projects**: DocScribe & Apply Copilot
+
 - 🎮 Built a **3D combat racing game** in Unity with FSM-powered NPC AI (enemies that actually *think*)
 - 👑 Former **President, TechTycoons IT Club** — organized events & a hackathon with 50+ participants
 - 🏅 **Oracle Cloud Infrastructure Foundations Associate** certified
