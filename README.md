@@ -22,7 +22,7 @@ I'm a developer who's genuinely excited about the AI wave — not just using too
 - 🎮 Built a **3D combat racing game** in Unity with FSM-powered NPC AI (enemies that actually *think*)
 - 👑 Former **President, TechTycoons IT Club** — organized events & a hackathon with 50+ participants
 - 🏅 **Oracle Cloud Infrastructure Foundations Associate** certified
-- 🌏 Open to **GenAI · Full-Stack · Frontend** roles — remote or Hyderabad
+- 🌏 Open to **GenAI · Full-Stack · UNITy dev• Frontend** roles — remote or Hyderabad
 
 ---
 
