@@ -53,7 +53,7 @@ I'm a developer who's genuinely excited about the AI wave — not just using too
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google skills](https://img.shields.io/badge/google%20skills)
+![Google skills]([https://img.shields.io/badge/google%20skills](https://img.shields.io/badge/google))
 
 <!---
 
