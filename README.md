@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <em>IT graduate · Ex-Intern @ Poditivity . UNITY Engine game dev · Building AI-first products from Hyderabad 🇮🇳</em>
+  <em>IT graduate . UNITY Engine game dev · Building AI-first products from Hyderabad 🇮🇳</em>
 </p>
 
 </div>
