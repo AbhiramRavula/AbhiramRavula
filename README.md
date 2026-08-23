@@ -115,6 +115,5 @@ I'm a developer who's genuinely excited about the AI wave — not just using too
 - 📫 How to reach me ...
 - 👀 I’m interested in 
 
-AbhiramRavula/AbhiramRavula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
