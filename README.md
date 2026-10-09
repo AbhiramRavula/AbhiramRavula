@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a developer who's genuinely excited about the AI wave — not just using tools, but **building products with them**. My sweet spot is where clean, well-crafted frontends meet LLM-powered backends that actually do something useful.
+I'm a developer who's genuinely excited about the AI wave — not just using tools, but **building products with them**. 
 
 - 🎓 **B.E. in Information Technology** — Matrusri Engineering College, Hyderabad (2026)
 - 💼 Completed a **1-year frontend internship** @ Poditivity — shipped real Next.js + TypeScript in production
