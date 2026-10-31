@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <em>UNITY game dev · Building AI-first products from Hyderabad 🇮🇳</em>
+  <em>UNITY game dev · Building from Hyderabad 🇮🇳 </em>
 </p>
 
 </div>
