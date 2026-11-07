@@ -17,7 +17,6 @@
 I'm a developer who's genuinely excited about the AI wave — not just using tools, but **building products with them**. 
 
 - 🎓 **B.E. in Information Technology** — Matrusri Engineering College, Hyderabad (2026)
-- 💼 Completed a **1-year frontend internship** @ Poditivity — shipped real Next.js + TypeScript in production
 
 - 🎮 Built a **3D combat racing game** in Unity with FSM-powered NPC AI (enemies that actually *think*)
 - 👑 Former **President, TechTycoons IT Club** — organized events & a hackathon with 50+ participants
